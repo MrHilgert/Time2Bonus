@@ -1,0 +1,7 @@
+name: Time2Bonus
+version: 2.0
+main: ru.hilgert.t2b.MainClass
+commands:
+    t2b:
+        usage: /<command> <reload>
+        permissions: time2bonus.reload
